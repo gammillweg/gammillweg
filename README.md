@@ -28,6 +28,6 @@ Truth be told, I am tired of leaning new languages and hope Java holds me till t
 -  I hope you enjoy programming and writing little apps as much as I, when you are my age!
 -
 - Outside of programming:
-- I am a Square Dancer (of many year) and a wood worker (of many years)
+- I am a Square Dancer (of many years) and a wood worker (of many years)
 
 
