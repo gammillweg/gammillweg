@@ -7,4 +7,4 @@ than an actual game.
 PS3541 periodical presort US Mail.
 - mailSet apps are a work in progress.  I hope to finish it during the next several month.
 -
-- If you care to learn more about me... read ExtendedReadMe.md... I don't expect anyone to do so.
+- If you care to learn more about me... read gammillweg/ExtendedReadMe.md... I don't expect anyone to do so.
