@@ -9,9 +9,9 @@
 - Repository mailSet is a work in progress to fill out PS3541 for presorted periodical US mail.
 I hope to complete it and put it into production to replace an older C# Visual Studio app I have been using for the last 10 years or so. (So I can get rid of Windows and do my volunteer work for my Square Dance community on Linux.)
 - Of interest to me, not likely you:
-- I took a 1 credit course in college on Fortran IV, entering the code into keypunch machines and submitting for batch processing on the colleges Main Frame. Mostly, I taught myself.
+- I took a 1 credit course in college on Fortran IV, entering the code into keypunch machines and submitting for batch processing on the colleges Main Frame. Other than that one course, I a self taught.
 - I taught myself to program in TPL on a Silent 700 using a character editor, in my spare time while providing tech support to an engineering group.
-- I have programmed in TPL, Pascal, Fortran IV, Classic C, C# and Java. I touched COBOL, and Ada but never really did any programming in either of them. And that is not to mention a myriad of shell scrips and Perl. Truth be told, I am tired of leaning new languages and hope Java holds me till the end.
+- I have programmed in TPL, Pascal, Fortran IV, Classic C, C# and Java.  That is not to mention a myriad of shell scrips and Perl. Truth be told, I am tired of leaning new languages and hope Java holds me till the end.
 - 
 - I hope you enjoy programming and writing little apps as much as I, when you are my age!
 - 
